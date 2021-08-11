@@ -1,4 +1,4 @@
-# File-Strcuture-Mini-Project-ETL-
+# File-Strcuture-Mini-Project-ETL
 Mini project to perform some ETL operations.
 
 Steps:
